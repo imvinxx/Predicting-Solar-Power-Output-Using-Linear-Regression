@@ -35,7 +35,7 @@ jupyterlab
 1. Clone the repository:
    ```bash
    git clone https://github.com/imvinxx/Predicting-Solar-Power-Output-Using-Linear-Regression.git
-   cd Predicting-Solar-Power-Output-Using-Linear-Regression
+ 
    ```
 2. Install the dependencies:
    ```bash
